@@ -1,2 +1,2 @@
-nums>=0.2.3
+nums>=0.2.7
 nbgitpuller
